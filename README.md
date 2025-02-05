@@ -3,6 +3,6 @@ These were my lab works for my third year intellectual data analysis (ML) course
 
 Agenda:
 1. Basic pandas' aggregation functions and calculations
-2. sklearn's segmentation models (particularly SVM)
+2. sklearn's classification models (particularly SVM)
 3. sklearn's MLP models for segment prediction
 4. sklearn's clusterization models (AffinityPropagation)
